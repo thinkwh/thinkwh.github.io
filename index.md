@@ -14,7 +14,7 @@ Now I'm visiting the [SAFARI](http://safari.ece.cmu.edu/) group
 at [Carnegie Mellon University](http://cmu.edu) as a reasearch scholar, 
 working with Prof. [Onur Mutlu](http://users.ece.cmu.edu/~omutlu/).
 
-Follow me on [Linkedin](http://www.linkedin.com/in/thinkwh) and [Github](https://github.com/thinkwh)
+Follow me on [Linkedin](http://www.linkedin.com/in/thinkwh) and [Github](https://github.com/thinkwh).
 
 这是王辉的个人主页，目前是北航计算机学院博三学生。研究兴趣包括：高性能计算，计算机系统结构，操作系统，虚拟化等。
 
