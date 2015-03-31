@@ -3,16 +3,13 @@ layout: home
 avatar: yes
 ---
 
-I'm a fourth-year PhD candidate in the 
+I'm a fourth-year PhD student in the 
 [Sino-German Joint Software Institue](http://www.jsi.buaa.edu.cn),
 [School of Computer Science and Engineering](http://scse.buaa.edu.cn), 
 [Beihang University](http://ev.buaa.edu.cn/).
-My research interest is High-Performance Computing, Computer System 
-and Architecture, working with 
-Prof. [Depei Qian](http://scse.buaa.edu.cn/Webxx/Cms_qt/szdw.jsp?id=22865&lx=6). 
-Now I'm visiting the [SAFARI](http://safari.ece.cmu.edu/) group 
-at [Carnegie Mellon University](http://cmu.edu) as a reasearch scholar, 
-working with Prof. [Onur Mutlu](http://users.ece.cmu.edu/~omutlu/).
+My research interest is High-Performance Computing, Microarchitecture, Computer System 
+and Virtualization, working with 
+Prof. [Depei Qian](https://scholar.google.com/citations?user=tl9JLZkAAAAJ&hl=en&oi=ao).
 
 [Linkedin](http://www.linkedin.com/in/thinkwh) and [Github](https://github.com/thinkwh).
 
