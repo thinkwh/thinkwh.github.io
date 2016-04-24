@@ -76,35 +76,35 @@ Computer system and architecture, especially cache and memory systems; Cloud com
     <tbody>
         <tr>
             <td style="vertical-align: top;">
-              [1]
+[1]
             </td>
             <td style="vertical-align: top;">
-            	<strong>Hui Wang</strong>, Canturk Isci, Lavanya Subramanian, Jongmoo Choi, Depei Qian, Onur Mutlu.<br>
-            	<a href="http://dl.acm.org/citation.cfm?id=2731202">"A-DRM: architecture-aware distributed resource management of virtualized clusters."</a><br>
-              in Proceedings of the 11th ACM SIGPLAN/SIGOPS International Conference on Virtual Execution Environments (VEE), 2015.<br>
-		[<a href="/files/adrm-vee2015.pdf">PDF</a> | <a href="/files/adrm-vee2015.pptx">Slide</a> | <a href="/files/adrm-vee2015.bib">Bibtex</a>]
+<strong>Hui Wang</strong>, Canturk Isci, Lavanya Subramanian, Jongmoo Choi, Depei Qian, Onur Mutlu,<br>
+<a href="http://dl.acm.org/citation.cfm?id=2731202">"A-DRM: architecture-aware distributed resource management of virtualized clusters"</a><br>
+Proceedings of the 11th ACM SIGPLAN/SIGOPS International Conference on Virtual Execution Environments (VEE), 2015.<br>
+[<a href="/files/adrm-vee2015.pdf">PDF</a> | <a href="/files/adrm-vee2015.pptx">Slide</a> | <a href="/files/adrm-vee2015.bib">Bibtex</a>]
             </td>
         </tr>
 
         <tr>
             <td style="vertical-align: top;">
-              [2]
+[2]
             </td>
             <td style="vertical-align: top;">
-            	<strong>Hui Wang</strong>, Rui Wang, Zhongzhi Luan, Xuehai Qian, Depei Qian. 
-            	<a href="http://link.springer.com/article/10.1007%2Fs11432-014-5175-8">"Improving multiprocessor performance with fine-grain coherence bypass."</a><br>
-              SCIENCE CHINA: Information Science, 58(1), 2015.<br>
-            	[<a href="/files/coherence-bypass.pdf">PDF</a> | <a href="/files/coherence-bypass.bib">Bibtex</a>]
+<strong>Hui Wang</strong>, Rui Wang, Zhongzhi Luan, Xuehai Qian, Depei Qian,<br> 
+<a href="http://link.springer.com/article/10.1007%2Fs11432-014-5175-8">"Improving multiprocessor performance with fine-grain coherence bypass"</a><br>
+SCIENCE CHINA: Information Science, 58(1), 2015.<br>
+[<a href="/files/coherence-bypass.pdf">PDF</a> | <a href="/files/coherence-bypass.bib">Bibtex</a>]
             	</td>
         </tr>
         <tr>
             <td style="vertical-align: top;">
-              [3]
+[3]
             </td>
             <td style="vertical-align: top;">
-            	<strong>Hui Wang</strong>, Chunrong Lai, Yicong Huang, Shih-lien Lu, Rui Wang, Zhongzhi Luan, Depei Qian.<br>
-            	<u>"Remapping NUCA: Improving NUCA Cache's Power Efficiency,"</u><br>
-              in Proceedings of the 16th IEEE International Conference on High Performance Computing and Communications (HPCC), 2014.<br>
+<strong>Hui Wang</strong>, Chunrong Lai, Yicong Huang, Shih-lien Lu, Rui Wang, Zhongzhi Luan, Depei Qian,<br>
+<u>"Remapping NUCA: Improving NUCA Cache's Power Efficiency"</u><br>
+Proceedings of the 16th IEEE International Conference on High Performance Computing and Communications (HPCC), 2014.<br>
             </td>
         </tr>
     </tbody>
