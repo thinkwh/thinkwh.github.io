@@ -7,12 +7,12 @@ avatar: yes
   <tbody>
     <tr>
       <td>
-        <img alt="huiwang" src="/files/huiwang.jpg">
+        <img style="width: 120px;" alt="huiwang" src="/files/huiwang.jpg">
       </td>
       <td>
-Ph.D. Candidate,<br/>
-[School of Computer Science and Engineering](http://scse.buaa.edu.cn/),<br/>
-[Beihang University](http://ev.buaa.edu.cn/), Beijing 100191, China.<br/>
+Ph.D. Candidate<br/>
+<a href="http://scse.buaa.edu.cn/">School of Computer Science and Engineering</a><br/>
+<a href="http://ev.buaa.edu.cn/">Beihang University</a>, Beijing 100191, China<br/>
 
 Email: wanghuiqingfeng [AT] gmail [DOT] com
       </td>
