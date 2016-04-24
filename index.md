@@ -3,20 +3,22 @@ layout: home
 avatar: yes
 ---
 
+<table border="0" cellpadding="2" cellspacing="10">
+  <tbody>
+    <tr>
+      <td>
+        <img alt="huiwang" src="/files/huiwang.jpg">
+      </td>
+      <td>
 Ph.D. Candidate,<br/>
-[Sino-German Joint Software Institue (JSI)](http://www.jsi.buaa.edu.cn),<br/>
 [School of Computer Science and Engineering](http://scse.buaa.edu.cn/),<br/>
 [Beihang University](http://ev.buaa.edu.cn/), Beijing 100191, China.<br/>
 
-Email: <br/>
-hui [DOT] wang [AT] buaa [DOT] edu [DOT] cn <br/>
-wanghuiqingfeng [AT] gmail [DOT] com  (Preferred)
-
-# About Me
-I'm a fifth-year Ph.D. candidate in Computer Architecture at [Beihang
-University](http://ev.buaa.edu.cn/), my advisor is Professor [Depei
-Qian](https://scholar.google.com.tr/citations?user=tl9JLZkAAAAJ&hl=en&oi=ao).
-See my [Linkedin](http://www.linkedin.com/in/thinkwh) for details.
+Email: wanghuiqingfeng [AT] gmail [DOT] com
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 # Research Interests
 Computer system and architecture, especially cache and memory systems; Cloud computing and virtualization.
