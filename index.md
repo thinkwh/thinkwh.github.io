@@ -20,12 +20,10 @@ Ph.D. Candidate<br/>
 </table>
 
 # Research Interests
----
 
 Computer system and architecture, especially cache and memory systems; Cloud computing and virtualization.
 
 # Education
----
 
 <table style="text-align: left;" border="0">
     <tbody>
@@ -56,7 +54,7 @@ Computer system and architecture, especially cache and memory systems; Cloud com
 </table>
 
 # Experiences
----
+
 <table style="text-align: left;" border="0">
     <tbody>
         <tr>
@@ -73,11 +71,11 @@ Computer system and architecture, especially cache and memory systems; Cloud com
 </table>
 
 # Publications
----
+
 <table style="text-align: left;" border="0">
     <tbody>
         <tr>
-            <td style="vertical-aligh: top;">
+            <td style="vertical-align: top;">
               [1]
             </td>
             <td style="vertical-align: top;">
@@ -89,7 +87,7 @@ Computer system and architecture, especially cache and memory systems; Cloud com
         </tr>
 
         <tr>
-            <td style="vertical-aligh: top;">
+            <td style="vertical-align: top;">
               [2]
             </td>
             <td style="vertical-align: top;">
@@ -100,7 +98,7 @@ Computer system and architecture, especially cache and memory systems; Cloud com
             	</td>
         </tr>
         <tr>
-            <td style="vertical-aligh: top;">
+            <td style="vertical-align: top;">
               [3]
             </td>
             <td style="vertical-align: top;">
@@ -113,12 +111,10 @@ Computer system and architecture, especially cache and memory systems; Cloud com
 </table>
 
 # Selected Awards
----
 * National Scholarship (2014)
 * National first prize in China Undergraduate Mathematical Contest in Modeling (CUMCM 2007) 
 
 # Misc.
----
 My slide on <a href="/files/gem5_guide.pptx">Gem5</a>, may be a bit old.
 
 ***************************
