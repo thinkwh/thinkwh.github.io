@@ -10,7 +10,8 @@ avatar: yes
         <img style="width: 120px;" alt="huiwang" src="/files/huiwang.jpg">
       </td>
       <td>
-Email: wanghuiqingfeng [AT] gmail [DOT] com<br/><br/>
+Email: wanghuiqingfeng [AT] gmail [DOT] com<br/>
+<a href="http://www.linkedin.com/in/thinkwh">Linkedin</a><br/>
 Ph.D. Candidate<br/>
 <a href="http://scse.buaa.edu.cn/">School of Computer Science and Engineering</a><br/>
 <a href="http://ev.buaa.edu.cn/">Beihang University</a>, Beijing 100191, China
@@ -116,7 +117,4 @@ Proceedings of the 16th IEEE International Conference on High Performance Comput
 
 # Misc.
 My slide on <a href="/files/gem5_guide.pptx">Gem5</a>, may be a bit old.
-
-***************************
-[Linkedin](http://www.linkedin.com/in/thinkwh)
 
