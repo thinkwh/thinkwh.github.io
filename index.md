@@ -10,11 +10,10 @@ avatar: yes
         <img style="width: 120px;" alt="huiwang" src="/files/huiwang.jpg">
       </td>
       <td>
+Email: wanghuiqingfeng [AT] gmail [DOT] com<br/><br/>
 Ph.D. Candidate<br/>
 <a href="http://scse.buaa.edu.cn/">School of Computer Science and Engineering</a><br/>
-<a href="http://ev.buaa.edu.cn/">Beihang University</a>, Beijing 100191, China<br/>
-
-Email: wanghuiqingfeng [AT] gmail [DOT] com
+<a href="http://ev.buaa.edu.cn/">Beihang University</a>, Beijing 100191, China
       </td>
     </tr>
   </tbody>
@@ -30,25 +29,23 @@ Computer system and architecture, especially cache and memory systems; Cloud com
             <td style="vertical-align: top;">Sep. 2011 - Present</td>
             <td style="vertical-align: top;">Ph.D Student in Computer Architecture,<br>
             School of Computer Science and Engineering,
-            <a href=http://ev.buaa.edu.cn/>Beihang University</a>, <br/>
-            Advisor: Professor Depei Qian,<br>
-            Recruited without examination.
+            <a href="http://ev.buaa.edu.cn/">Beihang University</a>, <br/>
+            Advisor: Prof. Depei Qian,<br>
             </td>
         </tr>
         <tr>
             <td style="vertical-align: top;">Sep. 2009 - Aug. 2011</td>
-            <td style="vertical-align: top;">Master Student in Computer Network,<br>
+            <td style="vertical-align: top;">M.S.E in Computer Science and Technology,<br>
             School of Computer Science and Engineering,
-            <a href=http://ev.buaa.edu.cn/>Beihang University</a>, <br/>
-            Advisor: Professor Zhongzhi Luan,<br>
-            Recruited without examination.
+            <a href="http://ev.buaa.edu.cn/">Beihang University</a>, <br/>
+            Advisor: Prof. Zhongzhi Luan,<br>
             </td>
         </tr>
         <tr>
             <td style="vertical-align: top;">Sep. 2005 - Jun. 2009</td>
             <td style="vertical-align: top;">B.S.E, Computer Science and Technology,<br>
             School of Computer Science, 
-            <a href=http://www.scu.edu.cn/en/>Sichuan University</a>.<br/>
+            <a href="http://www.scu.edu.cn/en/">Sichuan University</a>.<br/>
             </td>
         </tr>
     </tbody>
