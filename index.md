@@ -3,15 +3,108 @@ layout: home
 avatar: yes
 ---
 
-I'm a fifth-year PhD student in the 
-Sino-German Joint Software Institue,
-[School of Computer Science and Engineering](http://scse.buaa.edu.cn), 
-[Beihang University](http://ev.buaa.edu.cn/).
-My research interest is High-Performance Computing, Microarchitecture, Computer System 
-and Virtualization, working with 
-Prof. [Depei Qian](https://scholar.google.com/citations?user=tl9JLZkAAAAJ&hl=en&oi=ao).
+Ph.D. Candidate,<br/>
+[Sino-German Joint Software Institue (JSI)](http://www.jsi.buaa.edu.cn),<br/>
+[School of Computer Science and Engineering](http://scse.buaa.edu.cn/),<br/>
+[Beihang University](http://ev.buaa.edu.cn/), Beijing 100191, China.<br/>
 
-[Linkedin](http://www.linkedin.com/in/thinkwh) and [Github](https://github.com/thinkwh).
+Email: <br/>
+hui [DOT] wang [AT] buaa [DOT] edu [DOT] cn <br/>
+wanghuiqingfeng [AT] gmail [DOT] com  (Preferred)
 
-这是王辉的个人主页，目前是北航计算机学院博五学生。研究兴趣包括：高性能计算，计算机系统结构，操作系统，虚拟化等。
+# About Me
+I'm a fifth-year Ph.D. candidate in Computer Architecture at [Beihang
+University](http://ev.buaa.edu.cn/), my advisor is Professor [Depei
+Qian](https://scholar.google.com.tr/citations?user=tl9JLZkAAAAJ&hl=en&oi=ao).
+See my [Linkedin](http://www.linkedin.com/in/thinkwh) for details.
+
+# Research Interests
+Computer system and architecture, especially cache and memory systems; Cloud computing and virtualization.
+
+# Education
+<table style="text-align: left;" border="0">
+    <tbody>
+        <tr>
+            <td style="vertical-align: top;">Sep. 2011 - Present</td>
+            <td style="vertical-align: top;">Ph.D Student in Computer Architecture,<br>
+            School of Computer Science and Engineering,
+            <a href=http://ev.buaa.edu.cn/>Beihang University</a>, <br/>
+            Advisor: Professor Depei Qian,<br>
+            Recruited without examination.
+            </td>
+        </tr>
+        <tr>
+            <td style="vertical-align: top;">Sep. 2009 - Aug. 2011</td>
+            <td style="vertical-align: top;">Master Student in Computer Network,<br>
+            School of Computer Science and Engineering,
+            <a href=http://ev.buaa.edu.cn/>Beihang University</a>, <br/>
+            Advisor: Professor Zhongzhi Luan,<br>
+            Recruited without examination.
+            </td>
+        </tr>
+        <tr>
+            <td style="vertical-align: top;">Sep. 2005 - Jun. 2009</td>
+            <td style="vertical-align: top;">B.S.E, Computer Science and Technology,<br>
+            School of Computer Science, 
+            <a href=http://www.scu.edu.cn/en/>Sichuan University</a>.<br/>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+# Experiences
+<table style="text-align: left;" border="0">
+    <tbody>
+        <tr>
+            <td style="vertical-align: top;">Sep. 2013 - Mar. 2015<br>18 months</td>
+            <td style="vertical-align: top;">Visiting Scholar, Computer Architecture Lab, Carnegie Mellon University,<br>
+            Advisor: <a href="http://users.ece.cmu.edu/~omutlu">Professor Onur Mutlu</a></td>
+        </tr>
+        <tr>
+            <td style="vertical-align: top;">Sep. 2012 - Jun. 2013<br>10 months</td>
+            <td style="vertical-align: top;">Research Intern, Simics Technology Center, Intel China Ltd. Beijing Branch,<br>
+            Mentor: Daniel Aarno, Chunrong Lai</td>
+        </tr>
+    </tbody>
+</table>
+
+# Publications
+<table style="text-align: left;" border="0">
+    <tbody>
+        <tr>
+            <td style="vertical-align: top;">
+            	<strong>Hui Wang</strong>, Canturk Isci, Lavanya Subramanian, Jongmoo Choi, Depei Qian, Onur Mutlu. 
+            	<u>"A-DRM: architecture-aware distributed resource management of virtualized clusters."</u> in Proceedings of the 11th ACM SIGPLAN/SIGOPS International Conference on Virtual Execution Environments (VEE), 2015. 
+		[<a href="/en/files/adrm-vee2015.pdf">PDF</a> | <a href="/en/files/adrm-vee2015.pptx">Slide</a> | <a href="/en/files/adrm-vee2015.bib">Bibtex</a>]
+            </td>
+        </tr>
+
+        <tr>
+            <td style="vertical-align: top;">
+            	<strong>Hui Wang</strong>, Rui Wang, Zhongzhi Luan, Xuehai Qian, Depei Qian. 
+            	<u>"Improving multiprocessor performance with fine-grain coherence bypass."</u> SCIENCE CHINA: Information Science, 58(1), 2015. 
+            	[<a href="/en/files/coherence-bypass.pdf">PDF</a> | <a href="/en/files/coherence-bypass.bib">Bibtex</a>]
+            	</td>
+        </tr>
+        <tr>
+            <td style="vertical-align: top;">
+            	<strong>Hui Wang</strong>, Chunrong Lai, Yicong Huang, Shih-lien Lu, Rui Wang, Zhongzhi Luan, Depei Qian. 
+            	<u>"Remapping NUCA: Improving NUCA Cache's Power Efficiency,"</u> in Proceedings of the 16th IEEE International Conference on High Performance Computing and Communications (HPCC), 2014.
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+# Awards
+* National Scholarship (2014)
+* Ph.D scholarship of Beihang University (2014)
+* Two straight years scholarship of Beihang University during master phase study (2009-2011)
+* National first prize in China Undergraduate Mathematical Contest in Modeling (CUMCM 2007) 
+* Three straight years scholarship of Sichuan University during bachelor study (2005-2009)
+
+# Misc.
+My slide on <a href="/en/files/gem5_guide.pptx">Gem5</a>, may be a bit old.
+
+***************************
+[Linkedin](http://www.linkedin.com/in/thinkwh) and [Github](https://github.com/thinkwh)
 
