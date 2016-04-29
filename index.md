@@ -38,7 +38,7 @@ Computer system and architecture, especially cache and memory systems; Cloud com
         </tr>
         <tr>
             <td style="vertical-align: top;">Sep. 2009 - Aug. 2011</td>
-            <td style="vertical-align: top;">M.S.E in Computer Science and Technology,<br>
+            <td style="vertical-align: top;">M.S.E,  Computer Science and Technology,<br>
             School of Computer Science and Engineering,
             <a href="http://ev.buaa.edu.cn/">Beihang University</a>, <br/>
             Advisor: Prof. Zhongzhi Luan,<br>
