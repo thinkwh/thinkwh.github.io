@@ -12,9 +12,8 @@ avatar: yes
       <td>
 Email: wanghuiqingfeng [AT] gmail [DOT] com<br/>
 <a href="http://www.linkedin.com/in/thinkwh">Linkedin</a><br/>
-Ph.D. Candidate<br/>
-<a href="http://scse.buaa.edu.cn/">School of Computer Science and Engineering</a><br/>
-<a href="http://ev.buaa.edu.cn/">Beihang University</a>, Beijing 100191, China
+Research Engineer<br/>
+Huawei Technologies Co.,Ltd. Beijing, China
       </td>
     </tr>
   </tbody>
@@ -23,6 +22,27 @@ Ph.D. Candidate<br/>
 # Research Interests
 
 Computer system and architecture, especially cache and memory systems; Cloud computing and virtualization.
+
+# Work Experiences
+
+<table style="text-align: left;" border="0">
+    <tbody>
+        <tr>
+            <td style="vertical-align: top;">Aug. 2016 - Present</td>
+            <td style="vertical-align: top;">Research Engineer, Huawei Technologies.</td>
+        </tr>
+        <tr>
+            <td style="vertical-align: top;">Sep. 2013 - Mar. 2015<br>18 months</td>
+            <td style="vertical-align: top;">Visiting Scholar, Computer Architecture Lab, <a href="http://cmu.edu">Carnegie Mellon University</a><br>
+            Advisor: <a href="http://users.ece.cmu.edu/~omutlu">Prof. Onur Mutlu</a></td>
+        </tr>
+        <tr>
+            <td style="vertical-align: top;">Sep. 2012 - Jun. 2013<br>10 months</td>
+            <td style="vertical-align: top;">Research Intern, Simics Technology Center, Intel China Ltd.<br>
+            Mentor: Daniel Aarno, Chunrong Lai</td>
+        </tr>
+    </tbody>
+</table>
 
 # Education
 
@@ -50,23 +70,6 @@ Computer system and architecture, especially cache and memory systems; Cloud com
             School of Computer Science, 
             <a href="http://www.scu.edu.cn/en/">Sichuan University</a>.<br/>
             </td>
-        </tr>
-    </tbody>
-</table>
-
-# Experiences
-
-<table style="text-align: left;" border="0">
-    <tbody>
-        <tr>
-            <td style="vertical-align: top;">Sep. 2013 - Mar. 2015<br>18 months</td>
-            <td style="vertical-align: top;">Visiting Scholar, Computer Architecture Lab, <a href="http://cmu.edu">Carnegie Mellon University</a><br>
-            Advisor: <a href="http://users.ece.cmu.edu/~omutlu">Prof. Onur Mutlu</a></td>
-        </tr>
-        <tr>
-            <td style="vertical-align: top;">Sep. 2012 - Jun. 2013<br>10 months</td>
-            <td style="vertical-align: top;">Research Intern, Simics Technology Center, Intel China Ltd.<br>
-            Mentor: Daniel Aarno, Chunrong Lai</td>
         </tr>
     </tbody>
 </table>
@@ -114,7 +117,4 @@ Proceedings of the 16th IEEE International Conference on High Performance Comput
 # Selected Awards
 * National Scholarship (2014)
 * National first prize in China Undergraduate Mathematical Contest in Modeling (CUMCM 2007) 
-
-# Misc.
-My slide on <a href="/files/gem5_guide.pptx">Gem5</a>, may be a bit old.
 
